@@ -1,5 +1,6 @@
 # 截图兔 SnapBunny —— 一键截图，专注高效
-<img width="1173" height="1080" alt="截图兔LOGO" src="https://github.com/user-attachments/assets/5f85f652-eaef-4608-af8b-c5ffba260584" />
+<img width="1452" height="789" alt="Clipboard - 2026-08-12 14 58 33" src="https://github.com/user-attachments/assets/c280b437-001c-4a3a-9b2c-062852b021e8" />
+
 
 SnapBunny 是一款专为游戏开发者、影视创作者及参考素材收集者设计的一键截图工具。只需一次按键，即可瞬间捕捉全屏或活动窗口画面，无论是非 Steam 平台的游戏，还是在线追剧看电影，都能轻松应对，方便您随时收录灵感与参考素材。
 
@@ -25,6 +26,10 @@ SnapBunny 是一款专为游戏开发者、影视创作者及参考素材收集�
 QQ:879288282
 kartingliang@foxmail.com
 
+
+<img width="1467" height="789" alt="窗口捕捉中文海报" src="https://github.com/user-attachments/assets/7a97bfd7-14db-4f97-9124-94b9ab390c26" />
+
+<img width="1461" height="789" alt="全屏热键中文海报" src="https://github.com/user-attachments/assets/68d7497b-ccff-44f7-b513-30ea786cf864" />
 
 
 
@@ -54,3 +59,9 @@ Excellent tools like WeChat, ShareX, Snipaste, and PinPin already excel at regio
 If you have great ideas, feel free to leave a comment — we’re always listening and iterating!
 
 THX!
+<img width="1449" height="789" alt="英文LOGO海报" src="https://github.com/user-attachments/assets/ae8885f6-25c3-4389-a3ba-6f559936fde2" />
+
+<img width="1464" height="789" alt="窗口捕捉英文海报" src="https://github.com/user-attachments/assets/1c9dcbad-e1e0-495f-9165-3322118f47df" />
+<img width="1464" height="789" alt="全屏热键英文海报" src="https://github.com/user-attachments/assets/5441c2bf-4d39-4f22-8f8c-74fcde975c70" />
+
+
