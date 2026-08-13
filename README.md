@@ -27,7 +27,9 @@ kartingliang@foxmail.com
 
 
 
-SnapBunny — One‑Click Screenshot, Focused & Efficient
+
+
+**SnapBunny — One‑Click Screenshot, Focused & Efficient**
 
 SnapBunny is a one‑click screenshot tool built specifically for game developers, film creators, and reference material collectors. With a single keystroke, you can instantly capture your full screen or active window — whether you're playing a game outside Steam, watching a movie, or binging a TV series. It’s the perfect companion for saving visual references anytime, anywhere.
 
@@ -51,4 +53,4 @@ SnapBunny is a one‑click screenshot tool built specifically for game developer
 Excellent tools like WeChat, ShareX, Snipaste, and PinPin already excel at region capture. SnapBunny stays lightweight and purpose‑built — we focus on doing “one‑click full‑screen/window capture” right, without feature bloat.
 If you have great ideas, feel free to leave a comment — we’re always listening and iterating!
 
-kartingliang@foxmail.com
+THX!
