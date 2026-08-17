@@ -3,6 +3,8 @@
 
 
 由于我找不到steam那种瞬间截图的平替软件所以直接ai开发了个轻量化截图工具：截图兔 SnapBunny。
+
+
 SnapBunny 是一款专为游戏开发者、影视创作者及参考素材收集者设计的一键截图工具。只需一次按键，即可瞬间捕捉全屏或活动窗口画面，无论是玩游戏，还是在线追剧看电影，都能轻松应对，方便您随时收录灵感与参考素材。
 
 **核心功能一览**
@@ -38,6 +40,7 @@ kartingliang@foxmail.com
 **SnapBunny — One‑Click Screenshot, Focused & Efficient**
 
 Since I couldn’t find a good alternative to Steam’s instant screenshot feature, I went ahead and used AI to develop a lightweight screenshot tool myself: 截图兔 (SnapBunny).
+
 SnapBunny is a one‑click screenshot tool built specifically for game developers, film creators, and reference material collectors. With a single keystroke, you can instantly capture your full screen or active window — whether you're playing a game outside Steam, watching a movie, or binging a TV series. It’s the perfect companion for saving visual references anytime, anywhere.
 
 **Key features at a glance**
