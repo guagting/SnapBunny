@@ -1,0 +1,19 @@
+截图兔 Eagle v3 更新日志：
+1. 新增 Eagle 一键归档：在“图片管理软件”中选择 Eagle，即可通过快捷键截图，直接保存到指定文件夹，方便分类整理。
+2. 新增自定义截图区域：支持拖动框选，也可以手动修改坐标、宽度和高度，保存后重复使用。
+3. 新增资源库识别与切换：自动识别当前 Eagle 资源库并显示完整路径，支持选择最近使用的库或手动打开其他资源库。
+4. 新增文件夹搜索与刷新：支持按名称和完整路径搜索，显示多级子文件夹，新建文件夹后可刷新同步。
+5. 新增 Eagle 独立快捷键：Eagle 截图快捷键单独设置，与本地截图快捷键分别保存。
+6. 优化截图模式切换：启用 Eagle 后暂停本地截图；停用 Eagle 后，恢复原来的本地保存位置和快捷键。
+7. 完善语言与主题适配：Eagle 截图助手跟随截图兔切换中英文及明暗主题。
+8. 新增导入失败保护：导入异常时提供错误提示，并保留待确认的截图，方便核对和手动补充导入。
+
+## SnapBunny Eagle v3 — Release Notes
+- **Added Eagle integration**: Select Eagle as your image manager to capture screenshots with a shortcut and save them directly to a chosen folder for easy organization.
+- **Added custom capture regions**: Drag to select an area or manually adjust its coordinates, width, and height. Save the region for repeated captures.
+- **Added library detection and switching**: Automatically detect the current Eagle library and display its full path. Switch between recent libraries or browse to another library.
+- **Added folder search and refresh**: Search by folder name or full path, browse nested folders, and refresh to discover newly created folders.
+- **Added a dedicated Eagle shortcut**: Configure the Eagle capture shortcut independently from the local capture shortcut.
+- **Improved capture mode switching**: Enabling Eagle pauses local capture. Disabling Eagle restores your original local save location and shortcut.
+- **Improved language and theme support**: The Eagle Capture Assistant follows SnapBunny’s Chinese/English language setting and light/dark theme.
+- **Added import failure protection**: Failed or unconfirmed imports display an error and retain the screenshot for review and manual import.
