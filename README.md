@@ -23,7 +23,11 @@ SnapBunny 是一款专为游戏开发者、影视创作者及参考素材收集�
 
 7.缩略图预览与管理
 
-**为何没有区域截图？**
+8. 无缝归纳Eagle图片管理软件
+
+9. 自定义区域截图
+
+**为何没有太多功能？**
 市面已有微信、ShareX、Snipaste、PinPin 等优秀工具擅长区域选取。SnapBunny 坚持轻量、专注，不做功能堆砌，只为把“一键全屏/窗口截图”这件事做到极致。
 如果您有更好的想法，欢迎在评论区告诉我们，我们会持续优化！
 QQ:879288282
@@ -34,6 +38,7 @@ kartingliang@foxmail.com
 
 <img width="1461" height="789" alt="全屏热键中文海报" src="https://github.com/user-attachments/assets/68d7497b-ccff-44f7-b513-30ea786cf864" />
 
+![Uploading image.png…]()
 
 
 
@@ -59,7 +64,7 @@ SnapBunny is a one‑click screenshot tool built specifically for game developer
 
 7.Thumbnail preview and management
 
-**Why no area‑selection mode?**
+**Why no more mode?**
 Excellent tools like WeChat, ShareX, Snipaste, and PinPin already excel at region capture. SnapBunny stays lightweight and purpose‑built — we focus on doing “one‑click full‑screen/window capture” right, without feature bloat.
 If you have great ideas, feel free to leave a comment — we’re always listening and iterating!
 
