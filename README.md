@@ -9,19 +9,19 @@ SnapBunny is a one-click screenshot tool designed specifically for game develope
 
 **Key features at a glance**
 
-1.Window capture & full‑screen hotkey screenshots
+1. Window capture & full‑screen hotkey screenshots
 
-2.Customizable hotkey combinations
+2. Customizable hotkey combinations
 
-3.Customizable save folder location
+3. Customizable save folder location
 
-4.Screenshot sound effects + visual flash feedback
+4. Screenshot sound effects + visual flash feedback
 
-5.Customizable filename prefix
+5. Customizable filename prefix
 
-6.Start on boot & multi‑language interface
+6. Start on boot & multi‑language interface
 
-7.Thumbnail preview and management
+7. Thumbnail preview and management
 
 **Why no more mode?**
 Excellent tools like WeChat, ShareX, Snipaste, and PinPin already excel at region capture. SnapBunny stays lightweight and purpose‑built — we focus on doing “one‑click full‑screen/window capture” right, without feature bloat.
@@ -37,7 +37,8 @@ THX!
 - **Improved capture mode switching**: Enabling Eagle pauses local capture. Disabling Eagle restores your original local save location and shortcut.
 - **Improved language and theme support**: The Eagle Capture Assistant follows SnapBunny’s Chinese/English language setting and light/dark theme.
 - **Added import failure protection**: Failed or unconfirmed imports display an error and retain the screenshot for review and manual import.
-
+<img width="1260" height="1296" alt="ScreenShot_2026-10-23_164913_903" src="https://github.com/user-attachments/assets/7fe905e1-64bd-4dea-89f5-bda4ca1af35f" />
+<img width="1305" height="1257" alt="image" src="https://github.com/user-attachments/assets/f67a5dc7-e459-4e7e-9c33-302a06497db6" />
 <img width="1464" height="789" alt="窗口捕捉英文海报" src="https://github.com/user-attachments/assets/1c9dcbad-e1e0-495f-9165-3322118f47df" />
 <img width="1464" height="789" alt="全屏热键英文海报" src="https://github.com/user-attachments/assets/5441c2bf-4d39-4f22-8f8c-74fcde975c70" />
 
@@ -78,12 +79,12 @@ SnapBunny 是一款专为游戏开发者、影视创作者及参考素材收集�
 QQ:879288282
 kartingliang@foxmail.com
 
-
+<img width="1157" height="1272" alt="ScreenShot_2026-10-23_165024_226" src="https://github.com/user-attachments/assets/0ed123b4-0465-49b6-bf96-609529aa4fb0" />
+<img width="1368" height="1290" alt="ScreenShot_2026-10-23_165453_693" src="https://github.com/user-attachments/assets/9798c809-b90c-4eb3-ae2a-33197b82c68d" />
 <img width="1467" height="789" alt="窗口捕捉中文海报" src="https://github.com/user-attachments/assets/7a97bfd7-14db-4f97-9124-94b9ab390c26" />
-
 <img width="1461" height="789" alt="全屏热键中文海报" src="https://github.com/user-attachments/assets/68d7497b-ccff-44f7-b513-30ea786cf864" />
 
-<img width="1305" height="1257" alt="image" src="https://github.com/user-attachments/assets/f67a5dc7-e459-4e7e-9c33-302a06497db6" />
+
 
 **版本更新**
 截图兔 Eagle v3 更新日志：
